@@ -38,8 +38,8 @@
 			&--2 {
 				background-image: linear-gradient(
 					to right bottom,
-					$color-primary,
-					$color-primary-medium
+					$color-primary-card,
+					$color-primary-card-light
 				);
 			}
 
@@ -83,8 +83,8 @@
 		&--2 {
 			background-image: linear-gradient(
 					to right bottom,
-					$color-primary,
-					$color-primary-medium
+					$color-primary-card,
+					$color-primary-card-light
 				),
 				url('../imgs/nat-6.jpg');
 		}
@@ -127,8 +127,8 @@
 		&--2 {
 			background-image: linear-gradient(
 				to right bottom,
-				rgba($color-primary, 0.85),
-				rgba($color-primary-medium, 0.85)
+				rgba($color-primary-card, 0.85),
+				rgba($color-primary-card-light, 0.85)
 			);
 		}
 
